@@ -1,9 +1,12 @@
-# Configuración del Entornos de Desarrollo
+# Guía de Configuración de Entornos de Desarrollo
 
-> 💼 **Manual de Incorporación**: Esta guía establece los estándares del equipo para configurar entornos de desarrollo en C#. Cualquier nuevo desarrollador debe poder seguir estas instrucciones para configurar su entorno de trabajo de manera consistente con el resto del equipo.
+> 📋 **Guía Técnica**: Esta documentación establece los procedimientos para configurar entornos de desarrollo en C# y otros lenguajes. Incluye las configuraciones necesarias para mantener consistencia en el desarrollo de software.
+
+> **Nota importante**: Este documento se enfoca en aspectos técnicos y procedimientos. Para análisis comparativos, reflexiones personales y conclusiones, utiliza el archivo `EVALUACION_COMPARATIVA.md`.
 
 **Autores**: [Nombre 1] y [Nombre 2]
-**Fecha**: [Fecha actual]
+**Fecha V0**: [Fecha de entrega inicial]
+**Fecha V1**: [Fecha de entrega final]
 
 ---
 
@@ -30,20 +33,41 @@
 - Uso de la paleta de comandos
 - Gestión de archivos y carpetas
 
-> **Explora**: Estas son sugerencias para comenzar. Documenta las funcionalidades que descubras y consideres importantes.
-
 ### Personalización del Entorno
 
-**Configuraciones:** [Describe las personalizaciones]
+**Configuraciones aplicadas:** [Describe las personalizaciones que realizaste]
 
-*Algunas opciones de configuración:*
-- Temas e iconos
-- Configuración de fuentes
-- Idioma de interfaz
-- Layout de paneles
-- Atajos de teclado
-- Configuración del editor
-- Terminal integrada
+*Ejemplos de configuraciones útiles (elige las que consideres relevantes):*
+
+**Temas e iconos:**
+Ejemplos:
+- Dark+ (predeterminado), Material Theme, One Dark Pro
+- File Icon Theme para mejor identificación de archivos
+
+**Configuración de fuentes:**
+Ejemplos:
+- Fira Code, JetBrains Mono (con ligaduras)
+- Tamaño de fuente: 14-16px para mejor legibilidad
+
+**Atajos de teclado útiles:**
+Ejemplos:
+- Ctrl+/ para comentar/descomentar
+- Ctrl+Shift+P para paleta de comandos
+- Ctrl+` para terminal integrada
+- Alt+↑/↓ para mover líneas
+
+**Configuración del editor:**
+Ejemplos:
+- Formateo automático al guardar
+- Detección automática de indentación
+- Word wrap para líneas largas
+
+**Terminal integrada:**
+Ejemplos:
+- PowerShell como terminal predeterminado
+- Configuración de perfil personalizado
+
+> **Personaliza según tus necesidades**: Estas son sugerencias basadas en prácticas comunes. Experimenta y documenta las configuraciones que encuentres más útiles para tu flujo de trabajo.> 💼 **Manual de Incorporación**: Esta guía establece los estándares del equipo para configurar entornos de desarrollo en C#. Cualquier nuevo desarrollador debe poder seguir estas instrucciones para configurar su entorno de trabajo de manera consistente con el resto del equipo.
 
 ### SDK .NET
 
@@ -53,11 +77,19 @@
 
 ### Configuración para C#
 
-**Extensiones necesarias:**
-- [Lista las extensiones que se necesitan y para qué sirven]
+**Extensiones esenciales:**
+- **Soporte oficial para C#**: Extensión que proporciona IntelliSense, debugging y compilación
+
 
 **Configuraciones específicas para C#:** 
-[Describe las configuraciones que aplicaste para optimizar el desarrollo en C#]
+[Describe las configuraciones que aplicaste, como formateo automático, intellisense, o configuraciones del compilador]
+
+**Debugging básico:**
+- Configuración de puntos de interrupción (breakpoints)
+- Ejecutar y depurar
+- Inspección de variables
+
+> **Enfoque práctico**: Concentra tu documentación en las funcionalidades básicas que usarás día a día.
 
 ### Flujo de Trabajo con C#
 
@@ -75,9 +107,6 @@
 
 **Debugging:**
 [Configuración y uso de debugging]
-
-**Gestión de dependencias:**
-[Proceso para manejar paquetes NuGet y dependencias]
 
 ---
 
@@ -114,12 +143,19 @@
 
 ### Configuración en VS Code
 
-**Extensiones instaladas:**
-- [Extension 1]: [Funcionalidad que proporciona]
-- [Extension 2]: [Funcionalidad que proporciona]
+**Extensiones por lenguaje:**
 
-**Configuraciones específicas:**
-[Ajustes aplicados para optimizar el desarrollo en este lenguaje]
+*Para Java:*
+- **Paquete completo de Java**: Incluye compilación, debugging y gestión de proyectos
+
+*Para Python:*
+- **Soporte oficial de Python**: Extensión completa con intérprete y debugging
+
+*Para otros lenguajes:*
+- Busca la extensión oficial del lenguaje que proporcione soporte completo
+
+**Configuraciones específicas aplicadas:**
+[Documenta los ajustes que realizaste, como configuración del intérprete, formateo automático, linting, etc.]
 
 ### Proyecto de Ejemplo
 

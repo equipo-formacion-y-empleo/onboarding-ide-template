@@ -20,8 +20,8 @@ Nota: Documentar el proceso con capturas de pantalla
 
 Tu documentación debe incluir estos archivos:
 
-- `ONBOARDING.md` - Guía técnica de instalación y configuración, creada a partir de `TEMPLATE.md`
-- `CONCLUSIONES.md` - Análisis comparativo y reflexiones del equipo
+- `IDE_ONBOARDING_GUIDE.md` - Guía técnica de instalación y configuración
+- `EVALUACION_COMPARATIVA.md` - Análisis comparativo entre IDEs, lenguajes y reflexiones personales
 - `screenshots/` - Capturas de pantalla y otros recursos visuales
 
 ## 🔧 Contenido Técnico
@@ -47,6 +47,7 @@ Tu documentación debe incluir estos archivos:
 - Atajos de teclado
 - Configuración del editor
 - Terminal integrada
+- ...
 
 **Configuración para C#:**
 - Instala .NET SDK
@@ -97,11 +98,78 @@ Tu documentación técnica debe:
 
 ## 📝 Instrucciones de Entrega
 
+**Estructura del proyecto:**
 - **Trabajo en parejas**
-- **Usa la plantilla** `TEMPLATE.md` como punto de partida
+- **Usa la plantilla** `IDE_ONBOARDING_GUIDE.md` para crear la documentación técnica
+- **Usa la plantilla** `EVALUACION_COMPARATIVA.md` para  análisis
 - **Organiza tus capturas** en la carpeta `screenshots/`
 
-> **💼 Enfoque Profesional**: Esta guía debe ser útil para incorporar eficientemente a cualquier nuevo desarrollador del equipo, estableciendo estándares claros y configuraciones óptimas.
+**Metodología de dos fases:**
+1. **Entrega inicial**: Configuración básica y primeras impresiones
+2. **Entrega final**: Análisis maduro basado en experiencia de uso real
+
+> **Ventaja del enfoque**: Podrás contrastar tus primeras impresiones con tu experiencia real tras semanas de uso, enriqueciendo significativamente tu análisis final.
+
+## 📚 Recursos de Ayuda
+
+- [Documentación VS Code](https://code.visualstudio.com/docs)
+- [Documentación .NET](https://docs.microsoft.com/es-es/dotnet/)
+- [Guía C# en VS Code](https://code.visualstudio.com/docs/languages/csharp)
+- [Documentación Visual Studio](https://docs.microsoft.com/es-es/visualstudio/)
+
+## 📊 Separación de Contenidos
+
+**`IDE_ONBOARDING_GUIDE.md`** - Documentación técnica:
+- Procedimientos de instalación y configuración
+- Instrucciones paso a paso
+- Configuraciones específicas
+- Proyectos de ejemplo
+
+**`EVALUACION_COMPARATIVA.md`** - Análisis y reflexiones:
+- Comparativas entre IDEs y lenguajes
+- Ventajas y desventajas identificadas
+- Reflexiones personales y aprendizajes
+- Recomendaciones basadas en experiencia
+
+## 📅 Calendario de Entregas
+
+### Entrega Inicial 
+- Instalación y configuración básica de VS Code para C#
+- Instalación de Visual Studio (básico)
+- Configuración de un lenguaje adicional
+- Proyecto "Hola Mundo" funcionando en ambos IDEs
+- Análisis comparativo inicial basado en primeras impresiones
+
+> **Objetivo**: Demostrar que tienes los entornos funcionando y una comprensión básica de las diferencias.
+
+### Entrega Final 
+**Contenido completo:**
+- Documentación técnica detallada y refinada
+- Análisis comparativo completo basado en experiencia real
+- Configuraciones optimizadas después del uso cotidiano
+- Reflexiones maduras sobre productividad y preferencias
+- Recomendaciones fundamentadas en experiencia práctica
+
+> **Filosofía**: La experiencia real usando los IDEs en otros proyectos del curso enriquecerá significativamente tu análisis final.
+
+## 📊 Criterios de Evaluación
+
+### Documentación Técnica (50%)
+- **Claridad y precisión** (15%): Instrucciones fáciles de seguir
+- **Completitud** (15%): Todos los componentes instalados y funcionando
+- **Evidencia práctica** (20%): Capturas de pantalla y proyectos funcionando
+
+### Análisis Comparativo (20%)
+- **Calidad del análisis** (15%): Comparaciones fundamentadas y útiles
+- **Reflexión personal** (15%): Aprendizajes y preferencias justificadas
+
+### Presentación y Trabajo en Equipo (10%)
+- **Formato y organización** (5%): Documentación bien estructurada
+- **Colaboración** (5%): Evidencia de trabajo conjunto efectivo
+
+### Evolución entre entregas (20%)
+- Mejora significativa entre entrega inicial y final
+- Incorporación de aprendizajes de la experiencia práctica
 
 ## 📚 Recursos de Ayuda
 
@@ -112,4 +180,4 @@ Tu documentación técnica debe:
 
 ---
 
-**💼 Piensa como líder técnico**: Esta documentación debe establecer los estándares del equipo y facilitar la incorporación de nuevos desarrolladores de manera eficiente y profesional.
+**💡 Enfoque Pedagógico**: Este ejercicio combina configuración técnica inicial con experiencia práctica prolongada, permitiendo análisis más profundo y aprendizaje progresivo.
