@@ -19,11 +19,11 @@
 > **💡 Sobre las imágenes**: Incluye capturas de pantalla para mostrar los diferentes pasos o resultados. Ejemplo: `![Descripción clara del contenido](screenshots/nombre-descriptivo.png)`
 
 **Proceso de instalación:**
-- **Descarga:** [Describe el proceso]
-- **Opciones del instalador:** [Documenta las opciones que consideraste importantes]
-- **Verificación:** [Cómo verificas que funciona]
+- **Descarga:** [Describir el proceso]
+- **Opciones del instalador:** [Documentar las opciones que se consideraron importantes]
+- **Verificación:** [Cómo verificar que funciona]
 
-*Puedes documentar múltiples métodos.*
+*Es posible documentar múltiples métodos.*
 
 ### Uso Básico de VS Code
 
@@ -35,9 +35,9 @@
 
 ### Personalización del Entorno
 
-**Configuraciones aplicadas:** [Describe las personalizaciones que realizaste]
+**Configuraciones aplicadas:** [Describir las personalizaciones que se realizaron]
 
-*Ejemplos de configuraciones útiles (elige las que consideres relevantes):*
+*Ejemplos de configuraciones útiles (elegir las que se consideren relevantes):*
 
 **Temas e iconos:**
 Ejemplos:
@@ -72,7 +72,7 @@ Ejemplos:
 ### SDK .NET
 
 **Proceso de instalación:**
-1. **Descarga e instalación:** [Describe el proceso]
+1. **Descarga e instalación:** [Describir el proceso]
 2. **Verificación:** [Cómo comprobar que funciona]
 
 ### Configuración para C#
@@ -82,7 +82,7 @@ Ejemplos:
 
 
 **Configuraciones específicas para C#:** 
-[Describe las configuraciones que aplicaste, como formateo automático, intellisense, o configuraciones del compilador]
+[Describir las configuraciones que se aplicaron, como formateo automático, intellisense, o configuraciones del compilador]
 
 **Debugging básico:**
 - Configuración de puntos de interrupción (breakpoints)
@@ -94,11 +94,11 @@ Ejemplos:
 ### Flujo de Trabajo con C#
 
 **Creación de proyectos:**
-[Documenta el proceso para crear proyectos C#]
+[Documentar el proceso para crear proyectos C#]
 
 **Estructura de proyecto:**
 ```csharp
-// Incluye aquí un ejemplo del código desarrollado
+// Incluir aquí un ejemplo del código desarrollado
 // Comentarios sobre las decisiones tomadas
 ```
 
@@ -122,7 +122,7 @@ Ejemplos:
 ### Desarrollo con C#
 
 **Creación de proyecto:**
-[Proceso para crear un proyecto C# en Visual Studio]
+[Describir el proceso para crear un proyecto C# en Visual Studio]
 
 **Flujo de trabajo básico:**
 - Compilación y ejecución
@@ -133,7 +133,7 @@ Ejemplos:
 
 ## Configuración de Lenguaje Adicional
 
-**Lenguaje seleccionado:** [Java/Python/Otro] - **Justificación:** [Por qué elegiste este lenguaje]
+**Lenguaje seleccionado:** [Java/Python/Otro] - **Justificación:** [Por qué se eligió este lenguaje]
 
 ### Instalación del Entorno
 
@@ -155,28 +155,28 @@ Ejemplos:
 - Busca la extensión oficial del lenguaje que proporcione soporte completo
 
 **Configuraciones específicas aplicadas:**
-[Documenta los ajustes que realizaste, como configuración del intérprete, formateo automático, linting, etc.]
+[Documentar los ajustes que se realizaron, como configuración del intérprete, formateo automático, linting, etc.]
 
 ### Proyecto de Ejemplo
 
 **Código desarrollado:**
 ```[lenguaje]
-// Tu código de ejemplo aquí
+// Código de ejemplo aquí
 // Comentarios explicativos
 ```
 
 **Proceso de ejecución:**
-[Describe cómo ejecutar el código]
+[Describir cómo ejecutar el código]
 
 ---
 
 ## Configuraciones Recomendadas
 
 **Configuraciones generales:**
-[Documenta configuraciones que consideras útiles para cualquier desarrollador]
+[Documentar configuraciones que se consideran útiles para cualquier desarrollador]
 
 **Herramientas adicionales:**
-[Extensions, herramientas CLI, o utilidades que consideras beneficiosas]
+[Extensions, herramientas CLI, o utilidades que se consideran beneficiosas]
 
 **Solución de problemas comunes:**
 [Problemas frecuentes durante la configuración y sus soluciones]

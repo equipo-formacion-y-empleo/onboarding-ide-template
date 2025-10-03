@@ -29,9 +29,9 @@ Tu documentación debe incluir estos archivos:
 ### 1. Visual Studio Code para C# (Entorno Principal)
 
 **Instalación y Verificación:**
-- Documenta el método de instalación recomendado
-- Verifica la instalación correcta
-- Documenta algún otro método alternativo si es relevante
+- Documentar el método de instalación recomendado
+- Verificar la instalación correcta
+- Documentar algún otro método alternativo si es relevante
 
 **Uso Básico de VS Code:**
 - Navegación por la interfaz
@@ -62,7 +62,7 @@ Tu documentación debe incluir estos archivos:
 ### 2. Visual Studio (IDE Alternativo)
 
 **Instalación:**
-- Documenta la instalación de Visual Studio
+- Documentar la instalación de Visual Studio
 - Componentes necesarios para desarrollo en C#
 - Verificación de la instalación
 
@@ -74,8 +74,8 @@ Tu documentación debe incluir estos archivos:
 ### 3. Lenguaje Adicional (Java, Python u otro)
 
 **Configuración del entorno:**
-- Instala el runtime/SDK necesario
-- Configura VS Code para el lenguaje elegido
+- Instalar el runtime/SDK necesario
+- Configurar VS Code para el lenguaje elegido
 - Extensiones recomendadas
 
 **Proyecto de ejemplo:**
@@ -100,15 +100,15 @@ Tu documentación técnica debe:
 
 **Estructura del proyecto:**
 - **Trabajo en parejas**
-- **Usa la plantilla** `IDE_ONBOARDING_GUIDE.md` para crear la documentación técnica
-- **Usa la plantilla** `EVALUACION_COMPARATIVA.md` para  análisis
-- **Organiza tus capturas** en la carpeta `screenshots/`
+- **Usar la plantilla** `IDE_ONBOARDING_GUIDE.md` para crear la documentación técnica
+- **Usar la plantilla** `EVALUACION_COMPARATIVA.md` para  análisis
+- **Organizar las capturas** en la carpeta `screenshots/`
 
 **Metodología de dos fases:**
 1. **Entrega inicial**: Configuración básica y primeras impresiones
 2. **Entrega final**: Análisis maduro basado en experiencia de uso real
 
-> **Ventaja del enfoque**: Podrás contrastar tus primeras impresiones con tu experiencia real tras semanas de uso, enriqueciendo significativamente tu análisis final.
+> **Ventaja del enfoque**: Es posible contrastar las primeras impresiones con la experiencia real tras semanas de uso, enriqueciendo significativamente el análisis final.
 
 ## 📚 Recursos de Ayuda
 
@@ -140,7 +140,7 @@ Tu documentación técnica debe:
 - Proyecto "Hola Mundo" funcionando en ambos IDEs
 - Análisis comparativo inicial basado en primeras impresiones
 
-> **Objetivo**: Demostrar que tienes los entornos funcionando y una comprensión básica de las diferencias.
+> **Objetivo**: Demostrar que los entornos funcionan y una comprensión básica de las diferencias.
 
 ### Entrega Final 
 **Contenido completo:**
@@ -150,22 +150,22 @@ Tu documentación técnica debe:
 - Reflexiones maduras sobre productividad y preferencias
 - Recomendaciones fundamentadas en experiencia práctica
 
-> **Filosofía**: La experiencia real usando los IDEs en otros proyectos del curso enriquecerá significativamente tu análisis final.
+> **Filosofía**: La experiencia real usando los IDEs en otros proyectos del curso enriquecerá significativamente el análisis final.
 
 ## 📊 Criterios de Evaluación
 
 ### Documentación Técnica (50%)
-- **Claridad y precisión** (15%): Instrucciones fáciles de seguir
-- **Completitud** (15%): Todos los componentes instalados y funcionando
-- **Evidencia práctica** (20%): Capturas de pantalla y proyectos funcionando
+- **Claridad y precisión**: Instrucciones fáciles de seguir
+- **Alcance**: Todos los componentes instalados y funcionando
+- **Evidencia práctica**: Capturas de pantalla y proyectos funcionando
 
 ### Análisis Comparativo (20%)
-- **Calidad del análisis** (15%): Comparaciones fundamentadas y útiles
-- **Reflexión personal** (15%): Aprendizajes y preferencias justificadas
+- **Calidad del análisis**: Comparaciones fundamentadas y útiles
+- **Reflexión personal**: Aprendizajes y preferencias justificadas
 
 ### Presentación y Trabajo en Equipo (10%)
-- **Formato y organización** (5%): Documentación bien estructurada
-- **Colaboración** (5%): Evidencia de trabajo conjunto efectivo
+- **Formato y organización**: Documentación bien estructurada
+- **Colaboración**: Evidencia de trabajo conjunto efectivo
 
 ### Evolución entre entregas (20%)
 - Mejora significativa entre entrega inicial y final
