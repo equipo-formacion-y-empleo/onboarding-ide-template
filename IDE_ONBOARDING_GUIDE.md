@@ -1,8 +1,8 @@
 # Guía de Configuración de Entornos de Desarrollo
 
-> 📋 **Guía Técnica**: Esta documentación establece los procedimientos para configurar entornos de desarrollo en C# y otros lenguajes. Incluye las configuraciones necesarias para mantener consistencia en el desarrollo de software.
+> 📋 **Guía Técnica**: Esta documentación establece los procedimientos para configurar un entorno de desarrollo en C# y otros lenguajes. Incluye las configuraciones necesarias para mantener consistencia en el desarrollo de software.
 
-> **Nota importante**: Este documento se enfoca en aspectos técnicos y procedimientos. Para análisis comparativos, reflexiones personales y conclusiones, utiliza el archivo `EVALUACION_COMPARATIVA.md`.
+> **Nota importante**: Este documento se enfoca en aspectos técnicos y procedimientos. Para análisis comparativos, reflexiones personales y conclusiones, utiliza el archivo `CONCLUSIONES_EVALUACION.md`.
 
 **Autores**: [Nombre 1] y [Nombre 2]
 **Fecha V0**: [Fecha de entrega inicial]
@@ -16,7 +16,7 @@
 
 **Método de instalación:** [Especifica el método recomendado]
 
-> **💡 Sobre las imágenes**: Incluye capturas de pantalla para mostrar los diferentes pasos o resultados. Ejemplo: `![Descripción clara del contenido](screenshots/nombre-descriptivo.png)`
+> **💡 Sobre las imágenes**: Incluye capturas de pantalla para mostrar los diferentes pasos o resultados. Ejemplo: ![Descripción clara del contenido](screenshots/placeholder.png)`
 
 **Proceso de instalación:**
 - **Descarga:** [Describir el proceso]
@@ -41,13 +41,12 @@
 
 **Temas e iconos:**
 Ejemplos:
-- Dark+ (predeterminado), Material Theme, One Dark Pro
+- Material Theme, One Dark Pro
 - File Icon Theme para mejor identificación de archivos
 
 **Configuración de fuentes:**
 Ejemplos:
 - Fira Code, JetBrains Mono (con ligaduras)
-- Tamaño de fuente: 14-16px para mejor legibilidad
 
 **Atajos de teclado útiles:**
 Ejemplos:
