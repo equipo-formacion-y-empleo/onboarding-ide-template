@@ -18,10 +18,10 @@ Nota: Documentar el proceso con capturas de pantalla
 
 ## 📋 Estructura de Entrega
 
-Tu documentación debe incluir estos archivos:
+La documentación debe incluir estos archivos:
 
 - `IDE_ONBOARDING_GUIDE.md` - Guía técnica de instalación y configuración
-- `EVALUACION_COMPARATIVA.md` - Análisis comparativo entre IDEs, lenguajes y reflexiones personales
+- `CONCLUSIONES_EVALUACION.md` - Evaluación y conclusiones sobre los entornos de desarrollo
 - `screenshots/` - Capturas de pantalla y otros recursos visuales
 
 ## 🔧 Contenido Técnico
@@ -101,7 +101,7 @@ Tu documentación técnica debe:
 **Estructura del proyecto:**
 - **Trabajo en parejas**
 - **Usar la plantilla** `IDE_ONBOARDING_GUIDE.md` para crear la documentación técnica
-- **Usar la plantilla** `EVALUACION_COMPARATIVA.md` para  análisis
+- **Usar la plantilla** `CONCLUSIONES_EVALUACION.md` para evaluación y conclusiones
 - **Organizar las capturas** en la carpeta `screenshots/`
 
 **Metodología de dos fases:**
@@ -125,11 +125,11 @@ Tu documentación técnica debe:
 - Configuraciones específicas
 - Proyectos de ejemplo
 
-**`EVALUACION_COMPARATIVA.md`** - Análisis y reflexiones:
-- Comparativas entre IDEs y lenguajes
-- Ventajas y desventajas identificadas
-- Reflexiones personales y aprendizajes
-- Recomendaciones basadas en experiencia
+**`CONCLUSIONES_EVALUACION.md`** - Evaluación y conclusiones:
+- Evaluación comparativa entre IDEs
+- Evolución de preferencias tras uso real
+- Aprendizajes y reflexiones del proceso
+- Conclusiones y recomendaciones finales
 
 ## 📅 Calendario de Entregas
 
@@ -138,16 +138,16 @@ Tu documentación técnica debe:
 - Instalación de Visual Studio (básico)
 - Configuración de un lenguaje adicional
 - Proyecto "Hola Mundo" funcionando en ambos IDEs
-- Análisis comparativo inicial basado en primeras impresiones
+- Evaluación inicial basada en primeras impresiones
 
 > **Objetivo**: Demostrar que los entornos funcionan y una comprensión básica de las diferencias.
 
 ### Entrega Final 
 **Contenido completo:**
 - Documentación técnica detallada y refinada
-- Análisis comparativo completo basado en experiencia real
+- Evaluación completa basada en experiencia real de uso
 - Configuraciones optimizadas después del uso cotidiano
-- Reflexiones maduras sobre productividad y preferencias
+- Conclusiones maduras sobre productividad y preferencias
 - Recomendaciones fundamentadas en experiencia práctica
 
 > **Filosofía**: La experiencia real usando los IDEs en otros proyectos del curso enriquecerá significativamente el análisis final.
@@ -159,9 +159,9 @@ Tu documentación técnica debe:
 - **Alcance**: Todos los componentes instalados y funcionando
 - **Evidencia práctica**: Capturas de pantalla y proyectos funcionando
 
-### Análisis Comparativo (20%)
-- **Calidad del análisis**: Comparaciones fundamentadas y útiles
-- **Reflexión personal**: Aprendizajes y preferencias justificadas
+### Evaluación y Conclusiones (20%)
+- **Calidad de la evaluación**: Comparaciones fundamentadas y útiles
+- **Reflexiones**: Aprendizajes y conclusiones justificadas
 
 ### Presentación y Trabajo en Equipo (10%)
 - **Formato y organización**: Documentación bien estructurada

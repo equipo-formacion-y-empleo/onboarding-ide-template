@@ -182,7 +182,7 @@ Ejemplos:
 [Problemas frecuentes durante la configuración y sus soluciones]
 
 **Recursos útiles:**
-- [Enlace]: [Descripción]
-- [Documentación]: [Descripción]
+- Enlace [Enlace]: [Descripción]
+- Documentación [Documentación]: [Descripción]
 
 ---
